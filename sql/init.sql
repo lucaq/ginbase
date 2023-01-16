@@ -3466,9 +3466,9 @@ INSERT INTO `sys_user` VALUES (9992, '', '66@qq.com', 1, '$2a$04$zI7VSH/WspYF9Ke
 INSERT INTO `sys_user` VALUES (9993, '', '44@qq.com', 1, '$2a$04$IBgD8Un9Xgbi0lzbklZlC.uK1srn5w1Y5ntN1qfpzDgcipLLRp1aG', 'hupeng2', 11, '', 10, NULL, 'hu2', '男', '2021-11-10 17:09:24', 1);
 INSERT INTO `sys_user` VALUES (9996, '', '777@qq.com', 0, '$2a$04$Ep/UAK2kmJKPto6efG9qyOYlwQ5NGL0T/PkLVrUcXJxTcq6WG5Zca', 'zhang', 5, '18888888888', 11, NULL, 'zhang', '男', '2021-11-10 17:09:27', 1);
 INSERT INTO `sys_user` VALUES (9998, '', 'hu@qq.com', 1, '$2a$04$RWLjxYCIDjVweW5kKcg/B.uYvXdlaZT1NWkCJEj3EanhuB4ou4sZe', 'hupeng', 2, '15136175233', 8, '2021-11-16 15:17:05', 'hupeng', '男', '2021-11-26 10:19:25', 0);
-INSERT INTO `sys_user` VALUES (10030, '', 'guchengwuyue@163.com', 1, '$2a$04$tkOcjauo03Fc2sWmm0aetOGl78iKOBNNiZHoTJpUiS6zWyCePU.u2', 'aaaaa111', 6, '15136175246', 8, '2021-11-10 17:53:23', 'aaa', '男', '2021-11-10 17:53:23', 1);
-INSERT INTO `sys_user` VALUES (10031, '', 'guchengwuyue@163.com', 1, '$2a$04$Ib.CqeFG8KQl/NdlSTKen.wXvIVqmN/V.2u.4mH3sAPpd8.prRpO2', 'ffffff', 2, '15136175246', 8, '2021-11-20 14:54:54', 'fff', '男', '2021-11-20 14:54:54', 1);
-INSERT INTO `sys_user` VALUES (10032, '', 'guchengwuyue@163.com', 1, '$2a$04$EUCRhfKGWRevpRe7vVpUcu1ez7b5JQEIblXsIyJYUJR9QLGkkQBHG', 'eeee888', 2, '15136175246', 10, '2021-11-20 15:02:40', 'eee', '男', '2021-12-14 15:42:44', 0);
+INSERT INTO `sys_user` VALUES (10030, '', 'ginbase@163.com', 1, '$2a$04$tkOcjauo03Fc2sWmm0aetOGl78iKOBNNiZHoTJpUiS6zWyCePU.u2', 'aaaaa111', 6, '15136175246', 8, '2021-11-10 17:53:23', 'aaa', '男', '2021-11-10 17:53:23', 1);
+INSERT INTO `sys_user` VALUES (10031, '', 'ginbase@163.com', 1, '$2a$04$Ib.CqeFG8KQl/NdlSTKen.wXvIVqmN/V.2u.4mH3sAPpd8.prRpO2', 'ffffff', 2, '15136175246', 8, '2021-11-20 14:54:54', 'fff', '男', '2021-11-20 14:54:54', 1);
+INSERT INTO `sys_user` VALUES (10032, '', 'ginbase@163.com', 1, '$2a$04$EUCRhfKGWRevpRe7vVpUcu1ez7b5JQEIblXsIyJYUJR9QLGkkQBHG', 'eeee888', 2, '15136175246', 10, '2021-11-20 15:02:40', 'eee', '男', '2021-12-14 15:42:44', 0);
 COMMIT;
 
 -- ----------------------------

@@ -13,7 +13,7 @@ info:
   description: ginbase后台管理系统
   license:
     name: apache2
-  termsOfService: https://github.com/guchengwuyue/ginbase
+  termsOfService: 
   title: ginbase  API
   version: "1.0"
 paths:
