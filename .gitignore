@@ -1,0 +1,9 @@
+.idea/
+*/.DS_Store
+runtime/logs/
+lastupdate.tmp
+ginbase
+*.exe
+ginbase.tar.gz
+ginbase.iml
+tmp/
