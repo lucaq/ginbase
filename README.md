@@ -4,7 +4,7 @@
 
 
 #### 项目简介
-ginbase基于当前流行技术组合的前后端系统(包含了go后端、后台vue前端、pc商城用户端)： ginbase后台系统(目前版本v1.2)基于当前流行技术组合的前后端商城管理系统：
+ginbase基于yshop-gin(包含了go后端、后台vue前端、pc商城用户端)： ginbase后台系统(目前版本v1.2)基于当前流行技术组合的前后端商城管理系统：
 Gin+Gorm+Casbin+Jwt+Redis+Mysql8+Vue 的前后端分离电商管理系统，权限控制采用RBAC，支持商城商品加入购物车、下单、评价、支付（微信支付与余额支付）、搜索、地址管理、快递鸟查询、多级分类，商品管理、商品sku、图片素材、数据字典与数据权限管理，支持动态路由等
 
 
@@ -89,7 +89,7 @@ Gin+Gorm+Casbin+Jwt+Redis+Mysql8+Vue 的前后端分离电商管理系统，权�
 
 7、本地运行air -c .air.conf 启动即可，如果没有安装air的 直接go run main,go即可
 
-8、线上部署： go build  打包然后上传服务器命令： nohup ./go-mall & 
+8、线上部署： go build  打包然后上传服务器命令： nohup ./ginbase & 
 
 9、配置nginx 反向代理即可
 ```
@@ -131,6 +131,7 @@ Gin+Gorm+Casbin+Jwt+Redis+Mysql8+Vue 的前后端分离电商管理系统，权�
 
 #### 特别鸣谢
 
+- yshop-gin:https://gitee.com/guchengwuyue/yshop-gin(意象商城)
 - go-gin-example:https://github.com/EDDYCJY/go-gin-example
 - gorm:https://gorm.io/
 - casbin:https://casbin.org/
